@@ -4,6 +4,8 @@ This boilerplate is set up to be deployed on Vercel and you can directly deploy 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falchemyplatform%2Fvercel-alchemy-dapp-boilerplates-w-hardhat%2Ftree%2Fmain%2Ffrontend)
 
+Visit the [Live Demo here](https://alchemy-cw3d-dapp-boilerplate.vercel.app/)
+
 ## Resources
 Please refer to CW3D's documentation and the following useful links for an in depth explanation of how to work with projects bootstrapped with CW3D:
 
@@ -14,7 +16,6 @@ Please refer to CW3D's documentation and the following useful links for an in de
 -   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
 -   [Examples](https://github.com/alchemyplatform/create-web3-dapp-examples) - See the components implemented in a real world dapp
 -   [Community](https://t.me/createweb3dapp) - Meet other builders, get support, and give feedback!
--   [Live Deployed Boilerplate](https://alchemy-cw3d-dapp-boilerplate.vercel.app/) - Live deployment of this boilerplate on Vercel
 
 ## Overview
 
