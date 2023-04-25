@@ -1,5 +1,21 @@
 # CW3D Dapp Boilerplate For Vercel
 
+This boilerplate is set up to be deployed on Vercel and you can directly deploy this project by clicking the button below:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falchemyplatform%2Fvercel-alchemy-dapp-boilerplates-w-hardhat%2Ftree%2Fmain%2Ffrontend)
+
+## Resources
+Please refer to CW3D's documentation and the following useful links for an in depth explanation of how to work with projects bootstrapped with CW3D:
+
+-   [Docs](https://docs.alchemy.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
+-   [GitHub](https://github.com/alchemyplatform/create-web3-dapp) - look at the extensive code example or start contributing
+-   [Website](https://createweb3dapp.alchemy.com) - Learn more about CW3D and add components to your project
+-   [Templates](https://createweb3dapp.alchemy.com/#templates) - Check out the pre-built project templates
+-   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
+-   [Examples](https://github.com/alchemyplatform/create-web3-dapp-examples) - See the components implemented in a real world dapp
+-   [Community](https://t.me/createweb3dapp) - Meet other builders, get support, and give feedback!
+-   [Live Deployed Boilerplate](https://alchemy-cw3d-dapp-boilerplate.vercel.app/) - Live deployment of this boilerplate on Vercel
+
 ## Overview
 
 This project serves as a boilerplate for creating decentralized applications (dApps) using [Create Web3 Dapp](https://github.com/alchemyplatform/create-web3-dapp). It is preconfigured to be deployed on [Vercel](https://vercel.com/), providing you with a seamless way to get your dApp up and running in no time.
@@ -121,14 +137,3 @@ The boilerplate consists of two main directories:
 ```
 
 Start editing the `pages/index.jsx` file in the `frontend` directory to customize the project according to your own needs!
-
-## Resources
-Please refer to CW3D's documentation and the following links for an in depth explanation of how to work with projects bootstrapped with CW3D:
-
--   [Docs](https://docs.alchemy.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
--   [GitHub](https://github.com/alchemyplatform/create-web3-dapp) - look at the extensive code example or start contributing
--   [Website](https://createweb3dapp.alchemy.com) - Learn more about CW3D and add components to your project
--   [Templates](https://createweb3dapp.alchemy.com/#templates) - Check out the pre-built project templates
--   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
--   [Examples](https://github.com/alchemyplatform/create-web3-dapp-examples) - See the components implemented in a real world dapp
--   [Community](https://t.me/createweb3dapp) - Meet other builders, get support, and give feedback!
